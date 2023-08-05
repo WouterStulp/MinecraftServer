@@ -3,6 +3,7 @@
 | ----------- | ----------- |
 | /pay      | Pay someone |
 | /bal or /balance   | Check your balance|
+| /baltop   | Check everyone's balance|
 | /sethome   | Sets home to current position|
 | /delhome   | Deletes your home|
 | /home   | Go to home|
