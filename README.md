@@ -7,6 +7,7 @@
 | /delhome   | Deletes your home|
 | /home   | Go to home|
 | /ecs   | see all commands for chest shop|
+| /chat <prompt>   | Chat with steveGPT|
 
 # How to create chest shop.
 1. Place a chest
@@ -16,3 +17,6 @@
 5. If you look in the chest you see a chest.
 6. Click on the chest, this is the stock of the shop. ( it takes a moment to update the stock)
 7. When someone clicks on the green or red dye they buy or sell something from your shop.
+
+# Bluemap
+The server map is availiable at serverIP:8100
