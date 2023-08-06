@@ -1,6 +1,7 @@
 # Commands
 | Command      | Description |
 | ----------- | ----------- |
+| /afk   | Toggle afk status|
 | /pay      | Pay someone |
 | /bal or /balance   | Check your balance|
 | /baltop   | Check everyone's balance|
@@ -8,7 +9,7 @@
 | /delhome   | Deletes your home|
 | /home   | Go to home|
 | /ecs   | see all commands for chest shop|
-| /chat <prompt>   | Chat with steveGPT|
+| /chat 'prompt'   | Chat with steveGPT|
 
 # How to create chest shop.
 1. Place a chest
