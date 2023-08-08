@@ -10,6 +10,9 @@
 | /home   | Go to home|
 | /ecs   | see all commands for chest shop|
 | /chat 'prompt'   | Chat with steveGPT|
+| /cl list   | See all loaded chunks|
+| /addchunk | Add a chunk to chunkload list|
+| /removechunk | Remove a chunk to chunkload list|
 
 # How to create chest shop.
 1. Place a chest
