@@ -33,7 +33,18 @@ We have the following datapacks installed:
 * **More mob heads** - Adds a chance to get a mob head from killing a mob.
 * **Silence mobs** - Adds the ability to silence mobs using a name tag. 'Silence me'; 'silence me'; 'silence_me' are all acceptable names.
 * **Armoured elytra** - Drop elytra and a chestplate above an anvil to merge them into one item. Drop the item above a grindstone to separate them again. Enchantments are kept safely between merging and separating. Burning netherite armored elytra will keep the chestplate but burn off the elytra.
+  * How to:
+    * Create:
+        * Drop Elytra + Chestplate on Anvil
+    * Seperate the two:
+        * Drop Chestplate with Elytra on Grindstone
 * **Player head drops** - A player will drop their head when killed by another player. The item displays who the killer is.
 * **Armor statues** - Adds a unique book that allows you to alter the properties of armor stands in survival.
+  * How to get:
+    * book + quill
+    * Sign the book:
+    * "Statues" < zonder aanhaling tekens en met hoofdletter S
 * **Fast leaf decay** - Leaves decay much faster when trees are mined in survival mode.
 * **Villager workstation highlights** - Allows you to find the workstation of any villager.
+  * How to:
+    * /workstation while looking at a villager (?)
