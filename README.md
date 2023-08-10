@@ -43,7 +43,7 @@ We have the following datapacks installed:
   * How to get:
     * book + quill
     * Sign the book:
-    * "Statues" < zonder aanhaling tekens en met hoofdletter S
+    * "Statues" < Without quotes and capital S
 * **Fast leaf decay** - Leaves decay much faster when trees are mined in survival mode.
 * **Villager workstation highlights** - Allows you to find the workstation of any villager.
   * How to:
