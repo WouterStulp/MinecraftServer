@@ -10,9 +10,7 @@
 | /home   | Go to home|
 | /ecs   | see all commands for chest shop|
 | /chat 'prompt'   | Chat with steveGPT|
-| /cl list   | See all loaded chunks|
-| /addchunk | Add a chunk to chunkload list|
-| /removechunk | Remove a chunk to chunkload list|
+| /givechunkloader  | Gives a chunkloader in exchange for a Diamond block|
 
 # How to create chest shop.
 1. Place a chest
@@ -25,3 +23,17 @@
 
 # Bluemap
 The server map is availiable at serverIP:8100
+
+# Datapacks
+We have the following datapacks installed:
+
+* **Wandering trades** - Adds miniblocks to wandering traders.
+* **Double shulker shell** - Makes it so shulkers drop 2 shulker shells.
+* **Bat membranes** - Disabled phantoms and makes it so bats drop membranes.
+* **More mob heads** - Adds a chance to get a mob head from killing a mob.
+* **Silence mobs** - Adds the ability to silence mobs using a name tag. 'Silence me'; 'silence me'; 'silence_me' are all acceptable names.
+* **Armoured elytra** - Drop elytra and a chestplate above an anvil to merge them into one item. Drop the item above a grindstone to separate them again. Enchantments are kept safely between merging and separating. Burning netherite armored elytra will keep the chestplate but burn off the elytra.
+* **Player head drops** - A player will drop their head when killed by another player. The item displays who the killer is.
+* **Armor statues** - Adds a unique book that allows you to alter the properties of armor stands in survival.
+* **Fast leaf decay** - Leaves decay much faster when trees are mined in survival mode.
+* **Villager workstation highlights** - Allows you to find the workstation of any villager.
